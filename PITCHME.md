@@ -42,7 +42,7 @@
  * 100:50:12 * つまり * 約 x0.5 x0.24 * いけるのでは？
  
  ---
-！[alt](assets/BidirectionChopper_2part.bmp)
+![alt](assets/BidirectionChopper_2part.bmp)
 
 この条件でシミュレーションを進める
 
