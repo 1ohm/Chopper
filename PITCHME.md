@@ -12,7 +12,7 @@
 
 ---
 ### ひとまず、チョッパでDC-DC変換を考える
-![alt](assets/BidirectionChopper.emf)
+![alt](assets/BidirectionChopper.bmp)
 
 - ひとまずVinは100V
 - 負荷は120Aとなるような純抵抗負荷 (マージン20%)
@@ -42,7 +42,7 @@
  * 100:50:12 * つまり * 約 x0.5 x0.24 * いけるのでは？
  
  ---
-！[alt](assets/BidirectionChopper_2part.emf)
+！[alt](assets/BidirectionChopper_2part.bmp)
 
 この条件でシミュレーションを進める
 
